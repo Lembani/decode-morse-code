@@ -37,3 +37,7 @@ MORSE_CODE = {
   '----.' => '9',
   '-----' => '0'
 }.freeze
+
+def decode_char(char)
+  MORSE_CODE[char]
+end
