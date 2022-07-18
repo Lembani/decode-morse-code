@@ -1,4 +1,4 @@
-# Decode-morse-code
+# Decode Morse Code
 Decrypt morse code message using Ruby
 
 ### Setup
@@ -7,23 +7,23 @@ Decrypt morse code message using Ruby
 To clone the project:
 
 ```bash
-$ git clone https://github.com/Estherstarr/Decode-morse-code.git
-$ cd Decode-morse-code
+$ git clone https://github.com/Lembani/decode-morse-code.git
+$ cd decode-morse-code
 ```
 
 ## Author(s)
-
-👤 **Onomeh Onwuanibe**
-
-- GitHub: [@githubhandle](https://github.com/Estherstarr/)
-- Twitter: [@twitterhandle](https://twitter.com/AnibeEsther)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/onwuanibeonome)
 
 👤 **Lembani Sakala**
 
 - GitHub: [@lembani](https://github.com/lembani)
 - Twitter: [@lembani_](https://twitter.com/lembani_)
 - LinkedIn: [lembani-sakala](https://linkedin.com/in/lembani-sakala)
+
+👤 **Onomeh Onwuanibe**
+
+- GitHub: [@githubhandle](https://github.com/Estherstarr/)
+- Twitter: [@twitterhandle](https://twitter.com/AnibeEsther)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/onwuanibeonome)
 
 ## 🤝 Contributing
 
